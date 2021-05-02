@@ -14,7 +14,8 @@ Historical bitcoin prices are used to train the model along with various bitcoin
 Backtrader is used to implement that strategy against historical test data with a starting deposit of $10000 to test account balance growth over time for different neural network model configurations.
 
 A sample output from Backtrader testing built on the strategy developed by Convolutional + GRU based model is as follows:
-![Sample AI model Backtrader testing results](figures/CONV_GRU Bracktrader Results.png "Convolutional + GRU model")
+
+![Sample AI model Backtrader testing results](./figures/CONV_GRU Bracktrader Results.png)
 
 ## Pre-requisites
 
