@@ -1,0 +1,7 @@
+tensorflow==2.1.0
+matplotlib==3.2.2
+seaborn==0.11.0
+backtrader==1.9.76.123
+numpy==1.19.1
+pandas==1.0.5
+core==1.0.1
