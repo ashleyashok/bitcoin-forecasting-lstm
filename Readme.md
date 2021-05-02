@@ -1,4 +1,4 @@
-# Bitcoin Forecasting using AI and Backtrader Testing
+# Bitcoin Forecasting using AI and Backtrader Results
 
 ## About the project
 
