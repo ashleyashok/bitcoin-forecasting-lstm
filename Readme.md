@@ -15,11 +15,11 @@ Backtrader is used to implement that strategy against historical test data with 
 
 A sample output from Backtrader testing built on the strategy developed by Convolutional + GRU based model is as follows:
 
-![Sample AI model Backtrader testing results](./figures/CONV_GRU Bracktrader Results.png)
+![Sample AI model Backtrader testing results](../figures/CONV_GRU_Backtrader_Results.png)
 
 ## Pre-requisites
 
-Install the libraries required from to run main.py from requirements.txt using the command
+Install the libraries required from to run "main.py" from requirements.txt using the command
 
 pip install -r requirements.txt
 
